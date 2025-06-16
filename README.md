@@ -24,7 +24,7 @@ index.html → The main page of the website
    ```bash
    git clone https://github.com/YashTripathi-19/basic-zomato-homepage.git
 2. Navigate into the folder:
-   cd zomato-clone-basic
+   cd basic-zomato-homepage
 3. Open index.html in your browser.
 
 ✅ That’s it! No dependencies or build tools required.
