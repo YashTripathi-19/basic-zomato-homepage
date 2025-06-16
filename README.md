@@ -22,7 +22,7 @@ index.html → The main page of the website
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YashTripathi-19/zomato-clone-basic.git
+   git clone https://github.com/YashTripathi-19/basic-zomato-homepage.git
 2. Navigate into the folder:
    cd zomato-clone-basic
 3. Open index.html in your browser.
